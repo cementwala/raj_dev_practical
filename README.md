@@ -9,7 +9,7 @@ Used concept : Kotlin , MVVM ,coroutines, Koin , Data binding , Live Data , View
 
 Note:
 From document api is not working so i added some static data in room database
-from that fetch data from list screen.
+which is used to show list in screen.
 
 Map:
 I have implement Google Map and key of the map in Android Manifest which i removed.
