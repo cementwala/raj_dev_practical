@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practical</string>
+    <string name="something_went_wrong">Someting went wrong</string>
+    <string name="no_data_available">No Data Available</string>
+    <string name="things_to_deliver">Things to deliver</string>
+    <string name="delivery_details">Delivery Details</string>
+    <string name="search">Search</string>
+</resources>
